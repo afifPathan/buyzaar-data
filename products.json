@@ -1,4 +1,6 @@
 {
+  "version": "1.0.0",
+  "lastUpdated": "2026-04-26T12:00:00Z",
   "products": [
     {
       "id": "prod_001",
@@ -7,9 +9,9 @@
       "mrp": 300,
       "unit": "500 g",
       "imageUrl": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=800",
-      "description": "Fresh & aromatic garlic cloves",
+      "description": "Fresh & aromatic garlic cloves. Perfect for Indian cooking.",
       "inStock": true,
-      "isPopular": true
+      "category": "Vegetables"
     },
     {
       "id": "prod_002",
@@ -18,10 +20,9 @@
       "mrp": 60,
       "unit": "1 kg",
       "imageUrl": "https://images.unsplash.com/photo-1508747703727-719777637510?w=800",
-      "description": "Fresh red onions",
+      "description": "Fresh red onions, medium sized. Crispy and pungent.",
       "inStock": true,
-      "isPopular": true
+      "category": "Vegetables"
     }
-  ],
-  "lastUpdated": "2026-04-26T10:00:00Z"
+  ]
 }
