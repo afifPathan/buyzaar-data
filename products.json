@@ -1,28 +1,281 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-04-26T12:00:00Z",
+  "lastUpdated": "2026-04-26T11:14:37.194",
   "products": [
     {
-      "id": "prod_001",
+      "id": "prod001",
       "name": "Fresh Garlic",
       "price": 120,
       "mrp": 300,
+      "imageUrl": "https://picsum.photos/id/29/800/600",
+      "description": "Fresh & aromatic garlic cloves. Perfect for Indian cooking. Rich in antioxidants and adds amazing flavor to curries, dal, and veggies.",
       "unit": "500 g",
-      "imageUrl": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=800",
-      "description": "Fresh & aromatic garlic cloves. Perfect for Indian cooking.",
       "inStock": true,
-      "category": "Vegetables"
+      "category": "vegetable"
     },
     {
-      "id": "prod_002",
+      "id": "prod002",
       "name": "Red Onion",
       "price": 35,
       "mrp": 60,
+      "imageUrl": "https://picsum.photos/id/127/800/600",
+      "description": "Fresh red onions, medium sized. Crispy and pungent - essential for every Indian kitchen.",
       "unit": "1 kg",
-      "imageUrl": "https://images.unsplash.com/photo-1508747703727-719777637510?w=800",
-      "description": "Fresh red onions, medium sized. Crispy and pungent.",
       "inStock": true,
-      "category": "Vegetables"
+      "category": "vegetable"
+    },
+    {
+      "id": "prod003",
+      "name": "Fresh Tomato",
+      "price": 40,
+      "mrp": 70,
+      "imageUrl": "https://picsum.photos/id/108/800/600",
+      "description": "Fresh juicy tomatoes. Farm-fresh and naturally ripened. Great for salads, curries, and sauces.",
+      "unit": "1 kg",
+      "inStock": true,
+      "category": "vegetable"
+    },
+    {
+      "id": "prod004",
+      "name": "Premium Potato",
+      "price": 30,
+      "mrp": 55,
+      "imageUrl": "https://picsum.photos/id/90/800/600",
+      "description": "Premium quality potatoes. Perfect for fries, curries, and everyday cooking.",
+      "unit": "1 kg",
+      "inStock": true,
+      "category": "vegetable"
+    },
+    {
+      "id": "prod005",
+      "name": "Basmati Rice",
+      "price": 180,
+      "mrp": 250,
+      "imageUrl": "https://picsum.photos/id/153/800/600",
+      "description": "Aged Basmati Rice - long grain, aromatic. Perfect for biryani and pulao.",
+      "unit": "5 kg",
+      "inStock": true,
+      "category": "grocery"
+    },
+    {
+      "id": "prod006",
+      "name": "Toor Dal",
+      "price": 140,
+      "mrp": 200,
+      "imageUrl": "https://picsum.photos/id/122/800/600",
+      "description": "Premium quality toor dal (arhar dal). High protein, easy to cook.",
+      "unit": "1 kg",
+      "inStock": true,
+      "category": "grocery"
+    },
+    {
+      "id": "prod007",
+      "name": "Amul Gold Milk",
+      "price": 60,
+      "mrp": 68,
+      "imageUrl": "https://picsum.photos/id/20/800/600",
+      "description": "Amul Gold full cream milk. Rich and creamy. Pasteurized and safe.",
+      "unit": "1 L",
+      "inStock": true,
+      "category": "dairy"
+    },
+    {
+      "id": "prod008",
+      "name": "Fresh Curd",
+      "price": 45,
+      "mrp": 60,
+      "imageUrl": "https://picsum.photos/id/30/800/600",
+      "description": "Fresh thick curd prepared from toned milk. Probiotic rich.",
+      "unit": "500 g",
+      "inStock": true,
+      "category": "dairy"
+    },
+    {
+      "id": "prod009",
+      "name": "Fresh Paneer",
+      "price": 160,
+      "mrp": 200,
+      "imageUrl": "https://picsum.photos/id/127/800/600",
+      "description": "Fresh and soft cottage cheese. Perfect for paneer butter masala and shahi paneer.",
+      "unit": "500 g",
+      "inStock": true,
+      "category": "dairy"
+    },
+    {
+      "id": "prod010",
+      "name": "Whole Wheat Atta",
+      "price": 210,
+      "mrp": 300,
+      "imageUrl": "https://picsum.photos/id/127/800/600",
+      "description": "Whole wheat flour (chakki atta). High fiber and protein.",
+      "unit": "5 kg",
+      "inStock": true,
+      "category": "grocery"
+    },
+    {
+      "id": "prod011",
+      "name": "White Sugar",
+      "price": 42,
+      "mrp": 55,
+      "imageUrl": "https://picsum.photos/id/118/800/600",
+      "description": "Fine quality crystal sugar. Perfect for tea, coffee, and sweets.",
+      "unit": "1 kg",
+      "inStock": true,
+      "category": "grocery"
+    },
+    {
+      "id": "prod012",
+      "name": "Premium Tea",
+      "price": 175,
+      "mrp": 220,
+      "imageUrl": "https://picsum.photos/id/30/800/600",
+      "description": "Premium tea leaves - rich aroma and taste. Perfect for chai lovers.",
+      "unit": "500 g",
+      "inStock": true,
+      "category": "grocery"
+    },
+    {
+      "id": "prod013",
+      "name": "Sunflower Oil",
+      "price": 115,
+      "mrp": 150,
+      "imageUrl": "https://picsum.photos/id/37/800/600",
+      "description": "Refined sunflower oil. Healthy cooking oil for daily use.",
+      "unit": "1 L",
+      "inStock": true,
+      "category": "grocery"
+    },
+    {
+      "id": "prod014",
+      "name": "Iodized Salt",
+      "price": 20,
+      "mrp": 30,
+      "imageUrl": "https://picsum.photos/id/127/800/600",
+      "description": "Iodized salt - iron fortified. Essential for daily cooking.",
+      "unit": "1 kg",
+      "inStock": true,
+      "category": "grocery"
+    },
+    {
+      "id": "prod015",
+      "name": "Red Chilli Powder",
+      "price": 110,
+      "mrp": 160,
+      "imageUrl": "https://picsum.photos/id/16/800/600",
+      "description": "Pure red chilli powder - medium spicy. Adds color and heat to curries.",
+      "unit": "200 g",
+      "inStock": true,
+      "category": "spices"
+    },
+    {
+      "id": "prod016",
+      "name": "Turmeric Powder",
+      "price": 65,
+      "mrp": 100,
+      "imageUrl": "https://picsum.photos/id/29/800/600",
+      "description": "Pure turmeric powder (haldi). Known for antiseptic properties.",
+      "unit": "200 g",
+      "inStock": true,
+      "category": "spices"
+    },
+    {
+      "id": "prod017",
+      "name": "Coriander Powder",
+      "price": 55,
+      "mrp": 85,
+      "imageUrl": "https://picsum.photos/id/29/800/600",
+      "description": "Pure coriander powder (dhaniya powder). Essential for Indian curries.",
+      "unit": "200 g",
+      "inStock": true,
+      "category": "spices"
+    },
+    {
+      "id": "prod018",
+      "name": "Farm Fresh Eggs",
+      "price": 85,
+      "mrp": 105,
+      "imageUrl": "https://picsum.photos/id/141/800/600",
+      "description": "Farm fresh eggs. High in protein and omega-3.",
+      "unit": "6 pcs",
+      "inStock": true,
+      "category": "dairy"
+    },
+    {
+      "id": "prod019",
+      "name": "Fresh Bread",
+      "price": 35,
+      "mrp": 45,
+      "imageUrl": "https://picsum.photos/id/29/800/600",
+      "description": "Fresh white bread. Soft and perfect for sandwiches.",
+      "unit": "400 g",
+      "inStock": true,
+      "category": "bakery"
+    },
+    {
+      "id": "prod020",
+      "name": "Amul Butter",
+      "price": 52,
+      "mrp": 70,
+      "imageUrl": "https://picsum.photos/id/30/800/600",
+      "description": "Amul butter - creamy and delicious. Perfect for toast and cooking.",
+      "unit": "100 g",
+      "inStock": true,
+      "category": "dairy"
+    },
+    {
+      "id": "prod021",
+      "name": "Fresh Ginger (Adrak)",
+      "price": 80,
+      "mrp": 120,
+      "imageUrl": "https://picsum.photos/id/29/800/600",
+      "description": "Fresh ginger root. Adds amazing flavor to tea, curries, and kadha. Known for its medicinal properties.",
+      "unit": "250 g",
+      "inStock": true,
+      "category": "vegetable"
+    },
+    {
+      "id": "prod022",
+      "name": "Green Chilli (Hari Mirch)",
+      "price": 40,
+      "mrp": 60,
+      "imageUrl": "https://picsum.photos/id/16/800/600",
+      "description": "Fresh green chillies - hot and spicy. Essential for Indian cooking and chutneys.",
+      "unit": "250 g",
+      "inStock": true,
+      "category": "vegetable"
+    },
+    {
+      "id": "prod023",
+      "name": "Lemon (Nimbu)",
+      "price": 30,
+      "mrp": 50,
+      "imageUrl": "https://picsum.photos/id/108/800/600",
+      "description": "Fresh juicy lemons. Perfect for lemonade, chutney, and adding freshness to meals.",
+      "unit": "5 pcs",
+      "inStock": true,
+      "category": "vegetable"
+    },
+    {
+      "id": "prod024",
+      "name": "Coconut (Nariyal)",
+      "price": 45,
+      "mrp": 70,
+      "imageUrl": "https://picsum.photos/id/127/800/600",
+      "description": "Fresh coconut. Perfect for chutney, curry base, and healthy snacks.",
+      "unit": "1 pc",
+      "inStock": true,
+      "category": "vegetable"
+    },
+    {
+      "id": "prod025",
+      "name": "Peas (Matar)",
+      "price": 50,
+      "mrp": 80,
+      "imageUrl": "https://picsum.photos/id/16/800/600",
+      "description": "Fresh green peas. Sweet and tender. Perfect for pulao, aloo matar, and matar paneer.",
+      "unit": "500 g",
+      "inStock": true,
+      "category": "vegetable"
     }
   ]
 }
