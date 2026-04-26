@@ -1,0 +1,27 @@
+{
+  "products": [
+    {
+      "id": "prod_001",
+      "name": "Fresh Garlic",
+      "price": 120,
+      "mrp": 300,
+      "unit": "500 g",
+      "imageUrl": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=800",
+      "description": "Fresh & aromatic garlic cloves",
+      "inStock": true,
+      "isPopular": true
+    },
+    {
+      "id": "prod_002",
+      "name": "Red Onion",
+      "price": 35,
+      "mrp": 60,
+      "unit": "1 kg",
+      "imageUrl": "https://images.unsplash.com/photo-1508747703727-719777637510?w=800",
+      "description": "Fresh red onions",
+      "inStock": true,
+      "isPopular": true
+    }
+  ],
+  "lastUpdated": "2026-04-26T10:00:00Z"
+}
