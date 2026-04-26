@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-04-26T11:14:37.194",
+  "lastUpdated": "2026-04-26T11:22:43.334",
   "products": [
     {
       "id": "prod001",
@@ -269,11 +269,11 @@
     {
       "id": "prod025",
       "name": "Peas (Matar)",
-      "price": 50,
-      "mrp": 80,
+      "price": 70,
+      "mrp": 100,
       "imageUrl": "https://picsum.photos/id/16/800/600",
       "description": "Fresh green peas. Sweet and tender. Perfect for pulao, aloo matar, and matar paneer.",
-      "unit": "500 g",
+      "unit": "250 g",
       "inStock": true,
       "category": "vegetable"
     }
