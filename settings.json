@@ -1,6 +1,6 @@
 {
-  "deliveryFee": 500,
+  "deliveryFee": 30,
   "freeDeliveryThreshold": 99,
-  "isStoreOpen": false,
+  "isStoreOpen": true,
   "closedMessage": "Store is temporarily closed. Will be back soon!"
 }
