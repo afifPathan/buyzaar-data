@@ -11,7 +11,7 @@
       "description": "Fresh & aromatic garlic cloves. Perfect for Indian cooking. Rich in antioxidants and adds amazing flavor to curries, dal, and veggies.",
       "unit": "500 g",
       "inStock": true,
-      "category": "vegetable"
+      "category": "grocery"
     },
     {
       "id": "prod002",
@@ -22,7 +22,7 @@
       "description": "Fresh red onions, medium sized. Crispy and pungent - essential for every Indian kitchen.",
       "unit": "1 kg",
       "inStock": true,
-      "category": "vegetable"
+      "category": "home_kitchen"
     },
     {
       "id": "prod003",
@@ -33,7 +33,7 @@
       "description": "Fresh juicy tomatoes. Farm-fresh and naturally ripened. Great for salads, curries, and sauces.",
       "unit": "1 kg",
       "inStock": true,
-      "category": "vegetable"
+      "category": "beauty"
     },
     {
       "id": "prod004",
@@ -44,7 +44,7 @@
       "description": "Premium quality potatoes. Perfect for fries, curries, and everyday cooking.",
       "unit": "1 kg",
       "inStock": true,
-      "category": "vegetable"
+      "category": "toys"
     },
     {
       "id": "prod005",
