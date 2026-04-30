@@ -22,7 +22,7 @@
       "description": "Fresh red onions, medium sized. Crispy and pungent - essential for every Indian kitchen.",
       "unit": "1 kg",
       "inStock": true,
-      "category": "home_kitchen"
+      "category": "grocery"
     },
     {
       "id": "prod003",
@@ -33,7 +33,7 @@
       "description": "Fresh juicy tomatoes. Farm-fresh and naturally ripened. Great for salads, curries, and sauces.",
       "unit": "1 kg",
       "inStock": true,
-      "category": "beauty"
+      "category": "grocery"
     },
     {
       "id": "prod004",
@@ -44,7 +44,7 @@
       "description": "Premium quality potatoes. Perfect for fries, curries, and everyday cooking.",
       "unit": "1 kg",
       "inStock": true,
-      "category": "toys"
+      "category": "grocery"
     },
     {
       "id": "prod005",
@@ -77,7 +77,7 @@
       "description": "Amul Gold full cream milk. Rich and creamy. Pasteurized and safe.",
       "unit": "1 L",
       "inStock": true,
-      "category": "dairy"
+      "category": "grocery"
     },
     {
       "id": "prod008",
@@ -88,7 +88,7 @@
       "description": "Fresh thick curd prepared from toned milk. Probiotic rich.",
       "unit": "500 g",
       "inStock": true,
-      "category": "dairy"
+      "category": "grocery"
     },
     {
       "id": "prod009",
@@ -99,7 +99,7 @@
       "description": "Fresh and soft cottage cheese. Perfect for paneer butter masala and shahi paneer.",
       "unit": "500 g",
       "inStock": true,
-      "category": "dairy"
+      "category": "grocery"
     },
     {
       "id": "prod010",
@@ -165,7 +165,7 @@
       "description": "Pure red chilli powder - medium spicy. Adds color and heat to curries.",
       "unit": "200 g",
       "inStock": true,
-      "category": "spices"
+      "category": "grocery"
     },
     {
       "id": "prod016",
@@ -176,7 +176,7 @@
       "description": "Pure turmeric powder (haldi). Known for antiseptic properties.",
       "unit": "200 g",
       "inStock": true,
-      "category": "spices"
+      "category": "grocery"
     },
     {
       "id": "prod017",
@@ -187,7 +187,7 @@
       "description": "Pure coriander powder (dhaniya powder). Essential for Indian curries.",
       "unit": "200 g",
       "inStock": true,
-      "category": "spices"
+      "category": "grocery"
     },
     {
       "id": "prod018",
@@ -198,7 +198,7 @@
       "description": "Farm fresh eggs. High in protein and omega-3.",
       "unit": "6 pcs",
       "inStock": true,
-      "category": "dairy"
+      "category": "grocery"
     },
     {
       "id": "prod019",
@@ -209,7 +209,7 @@
       "description": "Fresh white bread. Soft and perfect for sandwiches.",
       "unit": "400 g",
       "inStock": true,
-      "category": "bakery"
+      "category": "grocery"
     },
     {
       "id": "prod020",
@@ -220,7 +220,7 @@
       "description": "Amul butter - creamy and delicious. Perfect for toast and cooking.",
       "unit": "100 g",
       "inStock": true,
-      "category": "dairy"
+      "category": "grocery"
     },
     {
       "id": "prod021",
@@ -231,7 +231,7 @@
       "description": "Fresh ginger root. Adds amazing flavor to tea, curries, and kadha. Known for its medicinal properties.",
       "unit": "250 g",
       "inStock": true,
-      "category": "vegetable"
+      "category": "grocery"
     },
     {
       "id": "prod022",
@@ -242,7 +242,7 @@
       "description": "Fresh green chillies - hot and spicy. Essential for Indian cooking and chutneys.",
       "unit": "250 g",
       "inStock": true,
-      "category": "vegetable"
+      "category": "grocery"
     },
     {
       "id": "prod023",
@@ -253,7 +253,7 @@
       "description": "Fresh juicy lemons. Perfect for lemonade, chutney, and adding freshness to meals.",
       "unit": "5 pcs",
       "inStock": true,
-      "category": "vegetable"
+      "category": "grocery"
     },
     {
       "id": "prod024",
@@ -264,7 +264,7 @@
       "description": "Fresh coconut. Perfect for chutney, curry base, and healthy snacks.",
       "unit": "1 pc",
       "inStock": true,
-      "category": "vegetable"
+      "category": "grocery"
     },
     {
       "id": "prod025",
@@ -275,7 +275,7 @@
       "description": "Fresh green peas. Sweet and tender. Perfect for pulao, aloo matar, and matar paneer.",
       "unit": "250 g",
       "inStock": true,
-      "category": "vegetable"
+      "category": "grocery"
     },
     {
       "id": "prod26",
