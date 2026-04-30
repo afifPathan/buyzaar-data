@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-04-30T15:10:59.137",
+  "lastUpdated": "2026-04-30T16:54:09.790",
   "products": [
     {
       "id": "prod001",
@@ -32,7 +32,7 @@
       "imageUrl": "https://picsum.photos/id/108/800/600",
       "description": "Fresh juicy tomatoes. Farm-fresh and naturally ripened. Great for salads, curries, and sauces.",
       "unit": "1 kg",
-      "inStock": true,
+      "inStock": false,
       "category": "grocery"
     },
     {
