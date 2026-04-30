@@ -276,28 +276,6 @@
       "unit": "250 g",
       "inStock": true,
       "category": "vegetable"
-    },
-    {
-      "id": "26",
-      "name": "test",
-      "price": 55,
-      "mrp": 60,
-      "imageUrl": "https://example.com/product-image.jpg",
-      "description": "",
-      "unit": "100 gm",
-      "inStock": true,
-      "category": "store"
-    },
-    {
-      "id": "27",
-      "name": "Rose",
-      "price": 35,
-      "mrp": 35,
-      "imageUrl": "https://images.stockcake.com/public/d/6/4/d64e6d61-ed62-42ed-a217-aaee29a4b1c5_large/lone-daisy-bloom-stockcake.jpg",
-      "description": "",
-      "unit": "1 peice",
-      "inStock": true,
-      "category": "grocery"
     }
   ]
 }
