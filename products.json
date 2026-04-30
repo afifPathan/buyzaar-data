@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-04-30T15:04:11.212",
+  "lastUpdated": "2026-04-30T15:04:22.882",
   "products": [
     {
       "id": "prod001",
@@ -21,7 +21,7 @@
       "imageUrl": "https://picsum.photos/id/127/800/600",
       "description": "Fresh red onions, medium sized. Crispy and pungent - essential for every Indian kitchen.",
       "unit": "1 kg",
-      "inStock": true,
+      "inStock": false,
       "category": "grocery"
     },
     {
