@@ -10,7 +10,7 @@
       "imageUrl": "https://picsum.photos/id/29/800/600",
       "description": "Fresh & aromatic garlic cloves. Perfect for Indian cooking. Rich in antioxidants and adds amazing flavor to curries, dal, and veggies.",
       "unit": "500 g",
-      "inStock": true,
+      "inStock": false,
       "category": "grocery"
     },
     {
