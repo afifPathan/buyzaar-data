@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-04-30T15:03:02.518",
+  "lastUpdated": "2026-04-30T15:03:43.685",
   "products": [
     {
       "id": "prod001",
@@ -246,7 +246,7 @@
     },
     {
       "id": "prod023",
-      "name": "Lemon (Nimbu)",
+      "name": "Lemon (Nimbuuu)",
       "price": 30,
       "mrp": 50,
       "imageUrl": "https://picsum.photos/id/108/800/600",
