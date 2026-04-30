@@ -1,16 +1,16 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-04-30T07:23:43.470",
+  "lastUpdated": "2026-04-30T14:35:28.091",
   "products": [
     {
       "id": "prod001",
       "name": "Fresh Garlic",
       "price": 120,
-      "mrp": 300,
+      "mrp": 150,
       "imageUrl": "https://picsum.photos/id/29/800/600",
       "description": "Fresh & aromatic garlic cloves. Perfect for Indian cooking. Rich in antioxidants and adds amazing flavor to curries, dal, and veggies.",
       "unit": "500 g",
-      "inStock": false,
+      "inStock": true,
       "category": "grocery"
     },
     {
