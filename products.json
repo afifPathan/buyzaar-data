@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-04-30T07:02:23.188",
+  "lastUpdated": "2026-04-30T07:03:27.484",
   "products": [
     {
       "id": "prod001",
@@ -292,7 +292,7 @@
       "id": "27",
       "name": "Rose",
       "price": 35,
-      "mrp": 38,
+      "mrp": 35,
       "imageUrl": "https://images.stockcake.com/public/d/6/4/d64e6d61-ed62-42ed-a217-aaee29a4b1c5_large/lone-daisy-bloom-stockcake.jpg",
       "description": "",
       "unit": "1 peice",
