@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-04-30T06:43:01.420",
+  "lastUpdated": "2026-04-30T06:43:49.311",
   "products": [
     {
       "id": "prod001",
@@ -279,14 +279,14 @@
     },
     {
       "id": "",
-      "name": "Wagh Bakri Tea",
-      "price": 10,
-      "mrp": 16,
-      "imageUrl": "https://picsum.photos/id/30/800/600",
+      "name": "test",
+      "price": 55,
+      "mrp": 60,
+      "imageUrl": "https://example.com/product-image.jpg",
       "description": "",
-      "unit": "120 gm",
+      "unit": "100 gm",
       "inStock": true,
-      "category": ""
+      "category": "grocery"
     },
     {
       "id": "",
