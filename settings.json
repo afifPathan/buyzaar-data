@@ -1,8 +1,8 @@
 {
   "deliveryFee": 40,
   "freeDeliveryThreshold": 99,
-  "isGroceryOpen": true,
-  "isStoreOpen": false,
-  "closedMessage": "Store is temporarily closed. Will be back soon!",
+  "isGroceryOpen": false,
+  "isStoreOpen": true,
+  "closedMessage": "Grocery is temporarily closed. Will be back soon!",
   "closedStoreMessage": "Store is temporarily closed. Will be back soon!"
 }
