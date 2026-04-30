@@ -4,5 +4,6 @@
   "isGroceryOpen": true,
   "isStoreOpen": true,
   "closedMessage": "Store is temporarily closed. Will be back soon!",
-  "closedStoreMessage": "Store is temporarily closed. Will be back soon!"
+  "closedStoreMessage": "Store is temporarily closed. Will be back soon!",
+  "lastProductId": "26"
 }
