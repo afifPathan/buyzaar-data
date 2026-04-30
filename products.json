@@ -278,21 +278,10 @@
       "category": "vegetable"
     },
     {
-      "id": "",
+      "id": "26",
       "name": "test",
       "price": 55,
       "mrp": 60,
-      "imageUrl": "https://example.com/product-image.jpg",
-      "description": "",
-      "unit": "100 gm",
-      "inStock": true,
-      "category": "grocery"
-    },
-    {
-      "id": "",
-      "name": "test",
-      "price": 50,
-      "mrp": 52,
       "imageUrl": "https://example.com/product-image.jpg",
       "description": "",
       "unit": "100 gm",
