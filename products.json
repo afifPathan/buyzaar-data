@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-04-27T10:13:40.188",
+  "lastUpdated": "2026-04-30T06:43:01.420",
   "products": [
     {
       "id": "prod001",
@@ -287,6 +287,17 @@
       "unit": "120 gm",
       "inStock": true,
       "category": ""
+    },
+    {
+      "id": "",
+      "name": "test",
+      "price": 50,
+      "mrp": 52,
+      "imageUrl": "https://example.com/product-image.jpg",
+      "description": "",
+      "unit": "100 gm",
+      "inStock": true,
+      "category": "grocery"
     }
   ]
 }
