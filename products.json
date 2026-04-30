@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-04-30T14:59:38.466",
+  "lastUpdated": "2026-04-30T15:03:02.518",
   "products": [
     {
       "id": "prod001",
@@ -252,17 +252,6 @@
       "imageUrl": "https://picsum.photos/id/108/800/600",
       "description": "Fresh juicy lemons. Perfect for lemonade, chutney, and adding freshness to meals.",
       "unit": "5 pcs",
-      "inStock": true,
-      "category": "grocery"
-    },
-    {
-      "id": "prod024",
-      "name": "Coconut (Nariyal)",
-      "price": 45,
-      "mrp": 70,
-      "imageUrl": "https://picsum.photos/id/127/800/600",
-      "description": "Fresh coconut. Perfect for chutney, curry base, and healthy snacks.",
-      "unit": "1 pc",
       "inStock": true,
       "category": "grocery"
     },
