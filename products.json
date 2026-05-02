@@ -4,22 +4,22 @@
   "products": [
     {
       "id": "prod001",
-      "name": "Fresh Garlic",
-      "price": 120,
-      "mrp": 150,
-      "imageUrl": "https://picsum.photos/id/29/800/600",
-      "description": "Fresh & aromatic garlic cloves. Perfect for Indian cooking. Rich in antioxidants and adds amazing flavor to curries, dal, and veggies.",
-      "unit": "500 g",
+      "name": "Jeerasal Rice (Premium Quality)",
+      "price": 55,
+      "mrp": 70,
+      "imageUrl": "https://i.postimg.cc/d0xBLXvH/jeerasal-rice.png",
+      "description": "Experience the rich aroma and fine texture of Jeerasal Rice, perfect for everyday meals.",
+      "unit": "1 Kg",
       "inStock": true,
       "category": "grocery"
     },
     {
       "id": "prod002",
-      "name": "Red Onion",
-      "price": 35,
-      "mrp": 60,
-      "imageUrl": "https://picsum.photos/id/127/800/600",
-      "description": "Fresh red onions, medium sized. Crispy and pungent - essential for every Indian kitchen.",
+      "name": "D S RIce",
+      "price": 100,
+      "mrp": 160,
+      "imageUrl": "https://i.postimg.cc/kGthJCS3/d-s-rice.png",
+      "description": "Premium Basmati Rice is an exotic new class of Basmati with a delectable taste that lets you relish special moments in life.",
       "unit": "1 kg",
       "inStock": true,
       "category": "grocery"
