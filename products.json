@@ -269,8 +269,8 @@
     {
       "id": "prod26",
       "name": "Sun Flower",
-      "price": 30,
-      "mrp": 31,
+      "price": 300,
+      "mrp": 310,
       "imageUrl": "https://images.stockcake.com/public/d/6/4/d64e6d61-ed62-42ed-a217-aaee29a4b1c5_large/lone-daisy-bloom-stockcake.jpg",
       "description": "",
       "unit": "1 piece",
@@ -280,8 +280,8 @@
     {
       "id": "prod27",
       "name": "Broom",
-      "price": 70,
-      "mrp": 90,
+      "price": 130,
+      "mrp": 150,
       "imageUrl": "https://m.media-amazon.com/images/I/31EhDwKzvDL.jpg",
       "description": "",
       "unit": "1 piece",
