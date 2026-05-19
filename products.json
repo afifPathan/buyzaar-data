@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-05-19T09:00:19.433Z",
+  "lastUpdated": "2026-05-19T09:07:34.593Z",
   "products": [
     {
       "id": "prod001",
@@ -318,6 +318,17 @@
       "imageUrl": "",
       "description": "🔥  2L Water Spray Bottle For Gardening @ ₹139\n\n🔗 https://bilty.co/OQYVdn",
       "unit": "2l",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1779181653261",
+      "name": "Soft Diaper Baby Pants",
+      "price": 309,
+      "mrp": 329,
+      "imageUrl": "",
+      "description": "🔥  Soft Diaper Baby Pants (S, 60 Pcs) @ ₹309\n\n🔗 https://bilty.co/yqY09q\n\n🔗 https://bilty.co/WFbb5x",
+      "unit": "60 Pieces",
       "inStock": true,
       "category": "store"
     }
