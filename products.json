@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-04-30T16:54:31.033",
+  "lastUpdated": "2026-05-19T08:30:51.645Z",
   "products": [
     {
       "id": "prod001",
@@ -284,6 +284,17 @@
       "mrp": 150,
       "imageUrl": "https://m.media-amazon.com/images/I/31EhDwKzvDL.jpg",
       "description": "",
+      "unit": "1 piece",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1779179450861",
+      "name": "🔥  Changing Light Night Lamp @ 251",
+      "price": 251,
+      "mrp": 271,
+      "imageUrl": "",
+      "description": "🔥  Changing Light Night Lamp @ 251\n\n🔗 https://bilty.co/dhgZTp",
       "unit": "1 piece",
       "inStock": true,
       "category": "store"
