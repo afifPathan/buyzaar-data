@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-05-19T09:19:28.555Z",
+  "lastUpdated": "2026-05-19T09:27:32.096Z",
   "products": [
     {
       "id": "prod001",
@@ -296,6 +296,17 @@
       "imageUrl": "https://i.ibb.co/JgSLX35/b6939c1dccc4.jpg",
       "description": "🔥  Rose Body Lotion 600ml @ ₹120\n\n🔗 https://bilty.co/1yKgpU\n\nMore - 🔗 https://bilty.co/OybQtO",
       "unit": "600 ML",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1779182851410",
+      "name": "Changing Light Night Lamp",
+      "price": 0,
+      "mrp": 20,
+      "imageUrl": "https://i.ibb.co/p6tfBrLq/3f1aec7d5a87.jpg",
+      "description": "🔥  Changing Light Night Lamp @ 251\n\n🔗 https://bilty.co/dhgZTp",
+      "unit": "1 Piece",
       "inStock": true,
       "category": "store"
     }
