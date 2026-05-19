@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-05-19T09:28:31.807Z",
+  "lastUpdated": "2026-05-19T09:44:29.520Z",
   "products": [
     {
       "id": "prod001",
@@ -329,6 +329,17 @@
       "imageUrl": "",
       "description": "𝗣𝗿𝗼𝗱𝘂𝗰𝘁 : Rechargeable Mini Electric Chopper for Kicthen Use\n\n𝗢𝗿𝗱𝗲𝗿 𝗡𝗼𝘄 :👇\nhttps://amzn.to/3RPfhXV",
       "unit": "1 Piece",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1779183867967",
+      "name": "Dr Ortho Pain Relief Spray",
+      "price": 129,
+      "mrp": 149,
+      "imageUrl": "https://i.ibb.co/s9d5MSgm/e86fcbc4a4c8.jpg",
+      "description": "🔥  Dr. Ortho Pain Relief 75ml Spray @ ₹129\n\n🔗 https://bilty.co/WW32eX\n\nMin 2 Buy",
+      "unit": "75 ML",
       "inStock": true,
       "category": "store"
     }
