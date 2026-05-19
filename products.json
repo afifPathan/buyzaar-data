@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-05-19T09:27:39.309Z",
+  "lastUpdated": "2026-05-19T09:28:31.807Z",
   "products": [
     {
       "id": "prod001",
@@ -317,6 +317,17 @@
       "mrp": 135,
       "imageUrl": "https://i.ibb.co/nszXKC4b/d593ec8d61c0.jpg",
       "description": "🔥  Cloth Cutting Scissor (9 Inch) @ ₹115\n\n🔗 https://bilty.co/44WolS",
+      "unit": "1 Piece",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1779182911043",
+      "name": "Rechargeable Mini Electric Chopper for Kicthen Use",
+      "price": 0,
+      "mrp": 20,
+      "imageUrl": "",
+      "description": "𝗣𝗿𝗼𝗱𝘂𝗰𝘁 : Rechargeable Mini Electric Chopper for Kicthen Use\n\n𝗢𝗿𝗱𝗲𝗿 𝗡𝗼𝘄 :👇\nhttps://amzn.to/3RPfhXV",
       "unit": "1 Piece",
       "inStock": true,
       "category": "store"
