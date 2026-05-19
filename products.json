@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-05-19T09:08:59.563Z",
+  "lastUpdated": "2026-05-19T09:12:47.347Z",
   "products": [
     {
       "id": "prod001",
@@ -334,6 +334,17 @@
     },
     {
       "id": "prod1779181738823",
+      "name": "2L Water Spray Bottle For Gardening",
+      "price": 139,
+      "mrp": 159,
+      "imageUrl": "",
+      "description": "🔥  2L Water Spray Bottle For Gardening @ ₹139\n\n🔗 https://bilty.co/OQYVdn",
+      "unit": "2 Liter",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1779181966571",
       "name": "2L Water Spray Bottle For Gardening",
       "price": 139,
       "mrp": 159,
