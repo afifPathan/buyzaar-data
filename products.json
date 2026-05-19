@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-05-19T09:17:26.006Z",
+  "lastUpdated": "2026-05-19T09:19:28.555Z",
   "products": [
     {
       "id": "prod001",
@@ -285,6 +285,17 @@
       "imageUrl": "https://m.media-amazon.com/images/I/31EhDwKzvDL.jpg",
       "description": "",
       "unit": "1 piece",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1779182367947",
+      "name": "Rose Body Lotion 600ml",
+      "price": 120,
+      "mrp": 140,
+      "imageUrl": "https://i.ibb.co/JgSLX35/b6939c1dccc4.jpg",
+      "description": "🔥  Rose Body Lotion 600ml @ ₹120\n\n🔗 https://bilty.co/1yKgpU\n\nMore - 🔗 https://bilty.co/OybQtO",
+      "unit": "600 ML",
       "inStock": true,
       "category": "store"
     }
