@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-05-19T10:09:16.320Z",
+  "lastUpdated": "2026-05-19T10:20:14.695Z",
   "products": [
     {
       "id": "prod001",
@@ -382,6 +382,17 @@
       "price": 94,
       "mrp": 114,
       "imageUrl": "",
+      "description": "💥 Analog Watch  - For Men @ ₹94\n\nhttps://bilty.co/q7gHaU\n\n• Sent via TeleFeed",
+      "unit": "1 Piece",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1779186014015",
+      "name": "Analog Watch - For Men",
+      "price": 94,
+      "mrp": 114,
+      "imageUrl": "https://i.ibb.co/1fn9r2Kz/3923aeebdc29.jpg",
       "description": "💥 Analog Watch  - For Men @ ₹94\n\nhttps://bilty.co/q7gHaU\n\n• Sent via TeleFeed",
       "unit": "1 Piece",
       "inStock": true,
