@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-05-19T09:44:29.520Z",
+  "lastUpdated": "2026-05-19T09:56:45.672Z",
   "products": [
     {
       "id": "prod001",
@@ -340,6 +340,17 @@
       "imageUrl": "https://i.ibb.co/s9d5MSgm/e86fcbc4a4c8.jpg",
       "description": "🔥  Dr. Ortho Pain Relief 75ml Spray @ ₹129\n\n🔗 https://bilty.co/WW32eX\n\nMin 2 Buy",
       "unit": "75 ML",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1779184605009",
+      "name": "Sneakers For Women",
+      "price": 294,
+      "mrp": 314,
+      "imageUrl": "",
+      "description": "🔥  Sneakers For Women @ ₹294\n\n🔗 https://bilty.co/nzWnzG",
+      "unit": "1 Piece",
       "inStock": true,
       "category": "store"
     }
