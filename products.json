@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-05-19T08:30:51.645Z",
+  "lastUpdated": "2026-05-19T08:34:35.640Z",
   "products": [
     {
       "id": "prod001",
@@ -295,6 +295,17 @@
       "mrp": 271,
       "imageUrl": "",
       "description": "🔥  Changing Light Night Lamp @ 251\n\n🔗 https://bilty.co/dhgZTp",
+      "unit": "1 piece",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1779179674857",
+      "name": "Cloth Cutting Scissor (9 Inch) 115",
+      "price": 9,
+      "mrp": 29,
+      "imageUrl": "",
+      "description": "🔥  Cloth Cutting Scissor (9 Inch) @ ₹115\n\n🔗 https://bilty.co/44WolS",
       "unit": "1 piece",
       "inStock": true,
       "category": "store"
