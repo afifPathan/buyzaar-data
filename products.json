@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-05-19T08:34:35.640Z",
+  "lastUpdated": "2026-05-19T09:00:19.433Z",
   "products": [
     {
       "id": "prod001",
@@ -307,6 +307,17 @@
       "imageUrl": "",
       "description": "🔥  Cloth Cutting Scissor (9 Inch) @ ₹115\n\n🔗 https://bilty.co/44WolS",
       "unit": "1 piece",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1779181218671",
+      "name": "2L Water Spray Bottle For Gardening",
+      "price": 2,
+      "mrp": 22,
+      "imageUrl": "",
+      "description": "🔥  2L Water Spray Bottle For Gardening @ ₹139\n\n🔗 https://bilty.co/OQYVdn",
+      "unit": "2l",
       "inStock": true,
       "category": "store"
     }
