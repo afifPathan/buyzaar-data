@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-05-19T09:56:45.672Z",
+  "lastUpdated": "2026-05-19T09:59:23.203Z",
   "products": [
     {
       "id": "prod001",
@@ -345,6 +345,17 @@
     },
     {
       "id": "prod1779184605009",
+      "name": "Sneakers For Women",
+      "price": 294,
+      "mrp": 314,
+      "imageUrl": "",
+      "description": "🔥  Sneakers For Women @ ₹294\n\n🔗 https://bilty.co/nzWnzG",
+      "unit": "1 Piece",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1779184762080",
       "name": "Sneakers For Women",
       "price": 294,
       "mrp": 314,
