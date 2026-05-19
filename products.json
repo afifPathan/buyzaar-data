@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-05-19T10:06:23.461Z",
+  "lastUpdated": "2026-05-19T10:09:16.320Z",
   "products": [
     {
       "id": "prod001",
@@ -372,6 +372,17 @@
       "mrp": 314,
       "imageUrl": "",
       "description": "🔥  Sneakers For Women @ ₹294\n\n🔗 https://bilty.co/nzWnzG",
+      "unit": "1 Piece",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1779185355581",
+      "name": "Analog Watch - For Men",
+      "price": 94,
+      "mrp": 114,
+      "imageUrl": "",
+      "description": "💥 Analog Watch  - For Men @ ₹94\n\nhttps://bilty.co/q7gHaU\n\n• Sent via TeleFeed",
       "unit": "1 Piece",
       "inStock": true,
       "category": "store"
