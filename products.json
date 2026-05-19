@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-05-19T10:20:14.695Z",
+  "lastUpdated": "2026-05-19T10:22:21.847Z",
   "products": [
     {
       "id": "prod001",
@@ -394,6 +394,17 @@
       "mrp": 114,
       "imageUrl": "https://i.ibb.co/1fn9r2Kz/3923aeebdc29.jpg",
       "description": "💥 Analog Watch  - For Men @ ₹94\n\nhttps://bilty.co/q7gHaU\n\n• Sent via TeleFeed",
+      "unit": "1 Piece",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1779186141225",
+      "name": "Co-Ords Set",
+      "price": 175,
+      "mrp": 195,
+      "imageUrl": "https://i.ibb.co/QZ01jnN/a0ad6845260d.jpg",
+      "description": "🔥  Co-Ords Set  @ ₹175\n\n🔗 https://bilty.co/MvA1nt\n\n🔗 https://bilty.co/HZFiOI",
       "unit": "1 Piece",
       "inStock": true,
       "category": "store"
