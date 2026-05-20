@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-05-20T09:47:34.322Z",
+  "lastUpdated": "2026-05-20T09:52:29.627Z",
   "products": [
     {
       "id": "prod001",
@@ -483,6 +483,17 @@
       "imageUrl": "https://i.ibb.co/SXWrMqZp/32dcc90da72e.jpg",
       "description": "🔥  Copper Wire 2 Core Electric Wire|90 MTR @ ₹267\n\n🔗 https://bilty.co/X90Wly",
       "unit": "1 Piece",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1779270748913",
+      "name": "Joy Hair Conditioning Shampoo 40 SC",
+      "price": 259,
+      "mrp": 279,
+      "imageUrl": "",
+      "description": "🔥  Joy Hair Conditioning Shampoo (680 ml) @ ₹259 + 40 SC\n\n🔗 https://bilty.co/23YuJ4",
+      "unit": "680 ML",
       "inStock": true,
       "category": "store"
     }
