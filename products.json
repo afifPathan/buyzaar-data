@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-05-19T10:22:21.847Z",
+  "lastUpdated": "2026-05-20T08:39:37.263Z",
   "products": [
     {
       "id": "prod001",
@@ -406,6 +406,17 @@
       "imageUrl": "https://i.ibb.co/QZ01jnN/a0ad6845260d.jpg",
       "description": "🔥  Co-Ords Set  @ ₹175\n\n🔗 https://bilty.co/MvA1nt\n\n🔗 https://bilty.co/HZFiOI",
       "unit": "1 Piece",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1779266376667",
+      "name": "Nippon Paint Durafresh Solo Exterior Emulsion Paint",
+      "price": 0,
+      "mrp": 0,
+      "imageUrl": "https://i.ibb.co/p6sLqL5Z/e72d37c0a8da.jpg",
+      "description": "Nippon Paint Durafresh Solo Exterior Emulsion Paint (Copper Oak, 4 L) @865\n\nhttps://amzn-to.in/zD65",
+      "unit": "4 Liter",
       "inStock": true,
       "category": "store"
     }
