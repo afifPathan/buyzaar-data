@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-05-20T09:19:30.560Z",
+  "lastUpdated": "2026-05-20T09:30:56.348Z",
   "products": [
     {
       "id": "prod001",
@@ -449,6 +449,17 @@
       "mrp": 0,
       "imageUrl": "https://i.ibb.co/bRCk0Nb9/684ae8d917e5.jpg",
       "description": "Axe Dark Bodyspray (Pack of 3) @273.\n \nhttps://amzn-to.in/yVNZ",
+      "unit": "1 Piece",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1779269455544",
+      "name": "4 Compartments Plastic Floor Mount",
+      "price": 948,
+      "mrp": 968,
+      "imageUrl": "https://i.ibb.co/KxySjmJK/6120f333c4f2.jpg",
+      "description": "4 Compartments Plastic Floor Mount @ ₹948\n\nhttps://bilty.co/KHMEtE",
       "unit": "1 Piece",
       "inStock": true,
       "category": "store"
