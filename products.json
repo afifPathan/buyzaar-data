@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-05-20T10:04:24.392Z",
+  "lastUpdated": "2026-05-20T10:07:49.937Z",
   "products": [
     {
       "id": "prod001",
@@ -516,6 +516,17 @@
       "imageUrl": "https://i.ibb.co/wh2wrW4s/1434369e906a.jpg",
       "description": "",
       "unit": "1 Piece",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1779271669203",
+      "name": "Unknown Product",
+      "price": 48,
+      "mrp": 68,
+      "imageUrl": "https://i.ibb.co/rRWS39Qv/a94a4c712807.jpg",
+      "description": "New Arrival\nAjmani Brand Aur Freshner \n300ML \n72 Pc Cartoon \n8 Fragrance \n\n\n48/-",
+      "unit": "300 ML",
       "inStock": true,
       "category": "store"
     }
