@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-05-20T08:47:21.701Z",
+  "lastUpdated": "2026-05-20T08:55:39.066Z",
   "products": [
     {
       "id": "prod001",
@@ -427,6 +427,17 @@
       "mrp": 155,
       "imageUrl": "https://i.ibb.co/C3Tnrn2X/e04cdd690a35.jpg",
       "description": "🔥LOOT: ₹135 Combo Cosmetic Bag Pack Of 3\n\nhttps://bilty.co/03dq0b\n\n• Sent via TeleFeed",
+      "unit": "1 Piece",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1779267338470",
+      "name": "Women Casual Top",
+      "price": 147,
+      "mrp": 167,
+      "imageUrl": "https://i.ibb.co/Vc0v0LGk/bca9502a647f.jpg",
+      "description": "Women Casual Top ₹147\n\nhttps://bilty.co/AZdBD0\n\n• Sent via TeleFeed",
       "unit": "1 Piece",
       "inStock": true,
       "category": "store"
