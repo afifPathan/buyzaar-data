@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-05-20T09:52:29.627Z",
+  "lastUpdated": "2026-05-20T10:02:39.447Z",
   "products": [
     {
       "id": "prod001",
@@ -492,6 +492,17 @@
       "price": 259,
       "mrp": 279,
       "imageUrl": "",
+      "description": "🔥  Joy Hair Conditioning Shampoo (680 ml) @ ₹259 + 40 SC\n\n🔗 https://bilty.co/23YuJ4",
+      "unit": "680 ML",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1779271358706",
+      "name": "Joy Hair Conditioning Shampoo 40 SC",
+      "price": 259,
+      "mrp": 279,
+      "imageUrl": "https://i.ibb.co/hRR7Mk2Z/75d42a848f85.jpg",
       "description": "🔥  Joy Hair Conditioning Shampoo (680 ml) @ ₹259 + 40 SC\n\n🔗 https://bilty.co/23YuJ4",
       "unit": "680 ML",
       "inStock": true,
