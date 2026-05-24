@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-05-24T00:41:08.994Z",
+  "lastUpdated": "2026-05-24T00:45:29.539Z",
   "products": [
     {
       "id": "prod001",
@@ -545,6 +545,17 @@
       "id": "prod1779583268021",
       "name": "Body Wash Starts",
       "price": 0,
+      "mrp": 0,
+      "imageUrl": "https://i.ibb.co/ZRfXvX1S/e8c43a3d5148.jpg",
+      "description": "Body Wash Starts @100\n\nFiama : https://amzn-to.in/c3qIO8\nPalmolive : https://amzn-to.in/f7Nr7r\nDettol : https://amzn-to.in/z5Jqg\n\nMore : https://amzn-to.in/Vtm6",
+      "unit": "1 Piece",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1779583528767",
+      "name": "Body Wash Starts",
+      "price": 100,
       "mrp": 0,
       "imageUrl": "https://i.ibb.co/ZRfXvX1S/e8c43a3d5148.jpg",
       "description": "Body Wash Starts @100\n\nFiama : https://amzn-to.in/c3qIO8\nPalmolive : https://amzn-to.in/f7Nr7r\nDettol : https://amzn-to.in/z5Jqg\n\nMore : https://amzn-to.in/Vtm6",
