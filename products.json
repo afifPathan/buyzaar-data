@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-06-07T23:22:24.661Z",
+  "lastUpdated": "2026-06-07T23:42:10.578Z",
   "products": [
     {
       "id": "prod001",
@@ -631,6 +631,17 @@
     },
     {
       "id": "prod1780874544093",
+      "name": "27 L Transparent Organiser",
+      "price": 48,
+      "mrp": 58,
+      "imageUrl": "https://i.ibb.co/Dfcs3rqg/c8c74dc8b144.jpg",
+      "description": "27 L Transparent Organiser\n50 pc Cartoon\n48/-",
+      "unit": "27 Liter",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1780875730210",
       "name": "27 L Transparent Organiser",
       "price": 48,
       "mrp": 58,
