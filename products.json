@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-06-07T22:41:45.517Z",
+  "lastUpdated": "2026-06-07T22:45:35.375Z",
   "products": [
     {
       "id": "prod001",
@@ -565,6 +565,17 @@
     },
     {
       "id": "prod1780872104954",
+      "name": "Dove Glycolic Hydration Shampoo with 5 Hydra-Glycol",
+      "price": 0,
+      "mrp": 0,
+      "imageUrl": "https://i.ibb.co/d0vYHR5S/033a44433122.jpg",
+      "description": "Dove Glycolic + Hydration Shampoo 650 ml with 5% Hydra-Glycol @458\n\nhttps://amzn-to.in/WM9Nz",
+      "unit": "650 ML",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1780872334989",
       "name": "Dove Glycolic Hydration Shampoo with 5 Hydra-Glycol",
       "price": 0,
       "mrp": 0,
