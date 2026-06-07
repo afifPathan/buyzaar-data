@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-06-07T23:03:16.147Z",
+  "lastUpdated": "2026-06-07T23:10:12.883Z",
   "products": [
     {
       "id": "prod001",
@@ -609,6 +609,17 @@
     },
     {
       "id": "prod1780873395771",
+      "name": "Uthao Tea Valley Utsah Black Tea Pouch 500g 13 Sc",
+      "price": 76,
+      "mrp": 91,
+      "imageUrl": "https://i.ibb.co/7dgK3vD5/12c58ab60bf7.jpg",
+      "description": "🔥 Uthao : Tea Valley Utsah Black Tea Pouch 500g @ ₹76+13 SC\n\n https://bilty.co/25x3LU\n\n• Sent via TeleFeed",
+      "unit": "500 Gram",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1780873812513",
       "name": "Uthao Tea Valley Utsah Black Tea Pouch 500g 13 Sc",
       "price": 76,
       "mrp": 91,
