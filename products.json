@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-05-24T00:45:29.539Z",
+  "lastUpdated": "2026-06-07T22:41:45.517Z",
   "products": [
     {
       "id": "prod001",
@@ -560,6 +560,17 @@
       "imageUrl": "https://i.ibb.co/ZRfXvX1S/e8c43a3d5148.jpg",
       "description": "Body Wash Starts @100\n\nFiama : https://amzn-to.in/c3qIO8\nPalmolive : https://amzn-to.in/f7Nr7r\nDettol : https://amzn-to.in/z5Jqg\n\nMore : https://amzn-to.in/Vtm6",
       "unit": "1 Piece",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1780872104954",
+      "name": "Dove Glycolic Hydration Shampoo with 5 Hydra-Glycol",
+      "price": 0,
+      "mrp": 0,
+      "imageUrl": "https://i.ibb.co/d0vYHR5S/033a44433122.jpg",
+      "description": "Dove Glycolic + Hydration Shampoo 650 ml with 5% Hydra-Glycol @458\n\nhttps://amzn-to.in/WM9Nz",
+      "unit": "650 ML",
       "inStock": true,
       "category": "store"
     }
