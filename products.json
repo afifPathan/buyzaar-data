@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-06-07T23:56:23.098Z",
+  "lastUpdated": "2026-06-07T23:58:54.058Z",
   "products": [
     {
       "id": "prod001",
@@ -670,6 +670,17 @@
       "imageUrl": "https://i.ibb.co/Dfcs3rqg/c8c74dc8b144.jpg",
       "description": "✨ Keep your space tidy with this 27 Liter Transparent Organiser. 📦 27 Liters capacity 📦 50 pieces included 🔍 Transparent design 🎨 Cartoon design 📦 Capacity: 27 Liter. 💸 Get 93% OFF! 🛒 Shop now at just ₹148. Limited stock available!",
       "unit": "27 Liter",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1780876733698",
+      "name": "Uthao Tea Valley Utsah",
+      "price": 76,
+      "mrp": 199,
+      "imageUrl": "",
+      "description": "🍵 Start your morning right with Uthao Tea Valley Utsah. 📦 3 Liters capacity ⚖️ Weight: 500 Gram. 💸 Get 62% OFF! 🛒 Shop now at just ₹76. Don't miss this deal!",
+      "unit": "500 Gram",
       "inStock": true,
       "category": "store"
     }
