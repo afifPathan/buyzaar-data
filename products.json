@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-06-07T23:58:57.042Z",
+  "lastUpdated": "2026-06-08T00:26:07.130Z",
   "products": [
     {
       "id": "prod001",
@@ -691,6 +691,17 @@
       "mrp": 96,
       "imageUrl": "https://i.ibb.co/7dgK3vD5/12c58ab60bf7.jpg",
       "description": "🍵 Start your morning right with Uthao Tea Valley Utsah. 📦 3 Liters capacity ⚖️ Weight: 500 Gram. 💸 Get 21% OFF! 🛒 Shop now at just ₹76. Don't miss this deal!",
+      "unit": "500 Gram",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1780878366604",
+      "name": "Uthao Tea Valley Utsah",
+      "price": 76,
+      "mrp": 96,
+      "imageUrl": "https://i.ibb.co/7dgK3vD5/12c58ab60bf7.jpg",
+      "description": "🍵 Start your morning right with Uthao Tea Valley Utsah. 📦 3 Liters capacity ⚖️ Weight: 500 Gram. 💸 Get 21% OFF! 🛒 Shop now at just ₹76. Hurry, while stocks last!",
       "unit": "500 Gram",
       "inStock": true,
       "category": "store"
