@@ -298,17 +298,6 @@
       "unit": "1 Piece",
       "inStock": true,
       "category": "store"
-    },
-    {
-      "id": "prod1780883595286",
-      "name": "Bag Cover",
-      "price": 80,
-      "mrp": 119,
-      "imageUrl": "https://i.ibb.co/TMtwZpTS/5e599ba19e75.jpg",
-      "description": "🌟 Premium quality Bag Cover. 💸 Get 33% OFF! 🛒 Shop now at just ₹80. Grab yours today!",
-      "unit": "1 Piece",
-      "inStock": true,
-      "category": "store"
     }
   ]
 }
