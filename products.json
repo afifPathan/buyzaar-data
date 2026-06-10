@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-06-09T23:05:26.482Z",
+  "lastUpdated": "2026-06-10T14:38:37.539Z",
   "products": [
     {
       "id": "prod001",
@@ -306,6 +306,17 @@
       "mrp": 119,
       "imageUrl": "https://i.ibb.co/pjS2CVCD/f7f5d48e891b.jpg",
       "description": "🌟 Premium quality Bag Cover. 💸 Get 33% OFF! 🛒 Shop now at just ₹80. Hurry, while stocks last!",
+      "unit": "1 Piece",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1781102317171",
+      "name": "Prestige Digital Air Fryer",
+      "price": 2899,
+      "mrp": 3334,
+      "imageUrl": "https://i.ibb.co/vC1XZyB0/7a6b53071d16.jpg",
+      "description": "🌟 Premium quality Prestige Digital Air Fryer. 💸 Get 13% OFF! 🛒 Shop now at just ₹2899. Grab yours today!",
       "unit": "1 Piece",
       "inStock": true,
       "category": "store"
