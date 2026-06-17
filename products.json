@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-06-17T15:32:18.669Z",
+  "lastUpdated": "2026-06-17T16:31:57.368Z",
   "products": [
     {
       "id": "prod001",
@@ -373,6 +373,17 @@
       "imageUrl": "https://iili.io/CoQeMwN.jpg",
       "description": "🌟 Premium quality Air Fryer At. 💸 Get 9% OFF! 🛒 Shop now at just ₹2899. Grab yours today!",
       "unit": "1 Piece",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1781713917004",
+      "name": "Harry Potter Wiper",
+      "price": 54,
+      "mrp": 75,
+      "imageUrl": "https://iili.io/CotWrYl.jpg",
+      "description": "🌟 Premium quality Harry Potter Wiper. 📦 100 pieces included 🎨 Cartoon design 📦 Contains: 100 Pieces. 💸 Get 28% OFF! 🛒 Shop now at just ₹54. Hurry, while stocks last!",
+      "unit": "100 Pieces",
       "inStock": true,
       "category": "store"
     }
