@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-06-17T16:31:57.368Z",
+  "lastUpdated": "2026-06-17T17:05:04.731Z",
   "products": [
     {
       "id": "prod001",
@@ -384,6 +384,17 @@
       "imageUrl": "https://iili.io/CotWrYl.jpg",
       "description": "🌟 Premium quality Harry Potter Wiper. 📦 100 pieces included 🎨 Cartoon design 📦 Contains: 100 Pieces. 💸 Get 28% OFF! 🛒 Shop now at just ₹54. Hurry, while stocks last!",
       "unit": "100 Pieces",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1781715904341",
+      "name": "Pack Of 3 Sunglasses",
+      "price": 153,
+      "mrp": 173,
+      "imageUrl": "https://iili.io/CoDXWqg.jpg",
+      "description": "🌟 Premium quality Pack Of 3 Sunglasses. 🥃 Premium glass 📦 Contains: 1 Pack. 💸 Get 12% OFF! 🛒 Shop now at just ₹153. Grab yours today!",
+      "unit": "1 Pack",
       "inStock": true,
       "category": "store"
     }
