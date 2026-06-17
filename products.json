@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-06-17T14:15:02.074Z",
+  "lastUpdated": "2026-06-17T15:32:18.669Z",
   "products": [
     {
       "id": "prod001",
@@ -361,6 +361,17 @@
       "mrp": 119,
       "imageUrl": "https://iili.io/Cosd7Sf.jpg",
       "description": "🌟 Premium quality Bag Cover. 💸 Get 33% OFF! 🛒 Shop now at just ₹80. Grab yours today!",
+      "unit": "1 Piece",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1781710338323",
+      "name": "Air Fryer At",
+      "price": 2899,
+      "mrp": 3199,
+      "imageUrl": "https://iili.io/CoQeMwN.jpg",
+      "description": "🌟 Premium quality Air Fryer At. 💸 Get 9% OFF! 🛒 Shop now at just ₹2899. Grab yours today!",
       "unit": "1 Piece",
       "inStock": true,
       "category": "store"
