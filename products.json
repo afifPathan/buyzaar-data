@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-06-23T18:12:01.146Z",
+  "lastUpdated": "2026-06-29T15:19:05.197Z",
   "products": [
     {
       "id": "prod001",
@@ -404,6 +404,17 @@
       "price": 199,
       "mrp": 299,
       "imageUrl": "https://iili.io/CTQ8uI9.jpg",
+      "description": "🌟 Premium quality Bag Cover. 💸 Get 33% OFF! 🛒 Shop now at just ₹199. Limited stock available!",
+      "unit": "1 Piece",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1782746344592",
+      "name": "Bag Cover",
+      "price": 199,
+      "mrp": 299,
+      "imageUrl": "https://iili.io/C5zJZzb.jpg",
       "description": "🌟 Premium quality Bag Cover. 💸 Get 33% OFF! 🛒 Shop now at just ₹199. Limited stock available!",
       "unit": "1 Piece",
       "inStock": true,
