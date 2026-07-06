@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-06-29T15:19:05.197Z",
+  "lastUpdated": "2026-07-06T18:46:15.779Z",
   "products": [
     {
       "id": "prod001",
@@ -416,6 +416,17 @@
       "mrp": 299,
       "imageUrl": "https://iili.io/C5zJZzb.jpg",
       "description": "🌟 Premium quality Bag Cover. 💸 Get 33% OFF! 🛒 Shop now at just ₹199. Limited stock available!",
+      "unit": "1 Piece",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1783363575268",
+      "name": "Electrical Wires Form",
+      "price": 280,
+      "mrp": 299,
+      "imageUrl": "https://iili.io/CcXiNcJ.jpg",
+      "description": "🌟 Premium quality Electrical Wires Form. 💸 Get 6% OFF! 🛒 Shop now at just ₹280. Don't miss this deal!",
       "unit": "1 Piece",
       "inStock": true,
       "category": "store"
