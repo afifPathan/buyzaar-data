@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-07-06T18:46:15.779Z",
+  "lastUpdated": "2026-07-07T15:04:17.177Z",
   "products": [
     {
       "id": "prod001",
@@ -428,6 +428,17 @@
       "imageUrl": "https://iili.io/CcXiNcJ.jpg",
       "description": "🌟 Premium quality Electrical Wires Form. 💸 Get 6% OFF! 🛒 Shop now at just ₹280. Don't miss this deal!",
       "unit": "1 Piece",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1783436656503",
+      "name": "Uthao Pack Of 3",
+      "price": 148,
+      "mrp": 168,
+      "imageUrl": "https://iili.io/CcylHxe.jpg",
+      "description": "🌟 Premium quality Uthao Pack Of 3. 📦 Contains: 1 Pack. 💸 Get 12% OFF! 🛒 Shop now at just ₹148. Hurry, while stocks last!",
+      "unit": "1 Pack",
       "inStock": true,
       "category": "store"
     }
