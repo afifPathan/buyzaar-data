@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-07-07T15:04:17.177Z",
+  "lastUpdated": "2026-07-18T04:05:17.830Z",
   "products": [
     {
       "id": "prod001",
@@ -438,6 +438,17 @@
       "mrp": 168,
       "imageUrl": "https://iili.io/CcylHxe.jpg",
       "description": "🌟 Premium quality Uthao Pack Of 3. 📦 Contains: 1 Pack. 💸 Get 12% OFF! 🛒 Shop now at just ₹148. Hurry, while stocks last!",
+      "unit": "1 Pack",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1784347517437",
+      "name": "Liquid Matte Mini Lipstick",
+      "price": 85,
+      "mrp": 105,
+      "imageUrl": "https://iili.io/Cj153Hg.jpg",
+      "description": "🌟 Premium quality Liquid Matte Mini Lipstick. 📦 Contains: 1 Pack. 💸 Get 19% OFF! 🛒 Shop now at just ₹85. Hurry, while stocks last!",
       "unit": "1 Pack",
       "inStock": true,
       "category": "store"
