@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-07-18T04:05:17.830Z",
+  "lastUpdated": "2026-08-05T00:25:57.985Z",
   "products": [
     {
       "id": "prod001",
@@ -450,6 +450,17 @@
       "imageUrl": "https://iili.io/Cj153Hg.jpg",
       "description": "🌟 Premium quality Liquid Matte Mini Lipstick. 📦 Contains: 1 Pack. 💸 Get 19% OFF! 🛒 Shop now at just ₹85. Hurry, while stocks last!",
       "unit": "1 Pack",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1785889557556",
+      "name": "Jack Jones Mens Jeans",
+      "price": 683,
+      "mrp": 785,
+      "imageUrl": "https://iili.io/Cgzgvpf.jpg",
+      "description": "🌟 Premium quality Jack Jones Mens Jeans. 💸 Get 13% OFF! 🛒 Shop now at just ₹683. Grab yours today!",
+      "unit": "1 Piece",
       "inStock": true,
       "category": "store"
     }
