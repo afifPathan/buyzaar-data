@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-08-05T00:25:57.985Z",
+  "lastUpdated": "2026-08-29T05:23:53.859Z",
   "products": [
     {
       "id": "prod001",
@@ -459,6 +459,17 @@
       "price": 683,
       "mrp": 785,
       "imageUrl": "https://iili.io/Cgzgvpf.jpg",
+      "description": "🌟 Premium quality Jack Jones Mens Jeans. 💸 Get 13% OFF! 🛒 Shop now at just ₹683. Grab yours today!",
+      "unit": "1 Piece",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1787981033429",
+      "name": "Jack Jones Mens Jeans",
+      "price": 683,
+      "mrp": 785,
+      "imageUrl": "https://iili.io/Cp7CsSe.jpg",
       "description": "🌟 Premium quality Jack Jones Mens Jeans. 💸 Get 13% OFF! 🛒 Shop now at just ₹683. Grab yours today!",
       "unit": "1 Piece",
       "inStock": true,
