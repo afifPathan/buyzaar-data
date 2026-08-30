@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-08-29T23:06:24.268Z",
+  "lastUpdated": "2026-08-30T04:19:57.771Z",
   "products": [
     {
       "id": "prod001",
@@ -482,6 +482,17 @@
       "mrp": 328,
       "imageUrl": "https://api.telegram.org/file/bot8484339544:AAGsqDGu1RYFC6T6DBdbSkF5KUg6r9x-Ya0/photos/file_16.jpg",
       "description": "🌟 Premium quality Womens Round Neck T-shirt. 💸 Get 6% OFF! 🛒 Shop now at just ₹308. Hurry, while stocks last!",
+      "unit": "1 Piece",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1788063597318",
+      "name": "Night Suits",
+      "price": 195,
+      "mrp": 215,
+      "imageUrl": "https://iili.io/CydemGe.jpg",
+      "description": "🌟 Premium quality Night Suits. 💸 Get 9% OFF! 🛒 Shop now at just ₹195. Hurry, while stocks last!",
       "unit": "1 Piece",
       "inStock": true,
       "category": "store"
