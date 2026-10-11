@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-11T03:45:46.155Z",
+  "lastUpdated": "2026-10-11T03:59:59.101Z",
   "products": [
     {
       "id": "prod001",
@@ -527,6 +527,17 @@
       "imageUrl": "https://iili.io/nMSO9ln.jpg",
       "description": "🌟 Premium quality Plain Makhana. ⚖️ Weight: 100 Gram. 💸 Get 16% OFF! 🛒 Shop now at just ₹105. Hurry, while stocks last!",
       "unit": "100 Gram",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1791691198789",
+      "name": "Lenovo Loq Intel Core",
+      "price": 85,
+      "mrp": 105,
+      "imageUrl": "https://iili.io/nMSZnjI.jpg",
+      "description": "🌟 Premium quality Lenovo Loq Intel Core. 💸 Get 19% OFF! 🛒 Shop now at just ₹85. Don't miss this deal!",
+      "unit": "1 Piece",
       "inStock": true,
       "category": "store"
     }
