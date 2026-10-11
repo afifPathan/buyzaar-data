@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-11T02:50:59.494Z",
+  "lastUpdated": "2026-10-11T03:45:46.155Z",
   "products": [
     {
       "id": "prod001",
@@ -516,6 +516,17 @@
       "imageUrl": "https://iili.io/nM8X4Hl.jpg",
       "description": "🌟 Premium quality Off French Connection. 💸 Get 21% OFF! 🛒 Shop now at just ₹75. Hurry, while stocks last!",
       "unit": "1 Piece",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1791690345256",
+      "name": "Plain Makhana",
+      "price": 105,
+      "mrp": 125,
+      "imageUrl": "https://iili.io/nMSO9ln.jpg",
+      "description": "🌟 Premium quality Plain Makhana. ⚖️ Weight: 100 Gram. 💸 Get 16% OFF! 🛒 Shop now at just ₹105. Hurry, while stocks last!",
+      "unit": "100 Gram",
       "inStock": true,
       "category": "store"
     }
