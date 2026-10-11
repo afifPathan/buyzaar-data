@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-11T02:49:47.562Z",
+  "lastUpdated": "2026-10-11T02:50:59.494Z",
   "products": [
     {
       "id": "prod001",
@@ -504,6 +504,17 @@
       "mrp": 3199,
       "imageUrl": "https://api.telegram.org/file/bot8922081084:AAFb19teHuUWVzKOy9Zyx1ZfZ4TQKnDTq40/photos/file_0.jpg",
       "description": "🌟 Premium quality Air Fryer At. 💸 Get 9% OFF! 🛒 Shop now at just ₹2899. Hurry, while stocks last!",
+      "unit": "1 Piece",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1791687059161",
+      "name": "Off French Connection",
+      "price": 75,
+      "mrp": 95,
+      "imageUrl": "https://iili.io/nM8X4Hl.jpg",
+      "description": "🌟 Premium quality Off French Connection. 💸 Get 21% OFF! 🛒 Shop now at just ₹75. Hurry, while stocks last!",
       "unit": "1 Piece",
       "inStock": true,
       "category": "store"
