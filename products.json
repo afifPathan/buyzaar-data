@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-11T03:59:59.101Z",
+  "lastUpdated": "2026-10-13T03:08:04.917Z",
   "products": [
     {
       "id": "prod001",
@@ -537,6 +537,17 @@
       "mrp": 105,
       "imageUrl": "https://iili.io/nMSZnjI.jpg",
       "description": "🌟 Premium quality Lenovo Loq Intel Core. 💸 Get 19% OFF! 🛒 Shop now at just ₹85. Don't miss this deal!",
+      "unit": "1 Piece",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1791860884058",
+      "name": "Sharara Dupatta Set",
+      "price": 433,
+      "mrp": 453,
+      "imageUrl": "https://iili.io/nWfbGff.jpg",
+      "description": "🌟 Premium quality Sharara Dupatta Set. 💸 Get 4% OFF! 🛒 Shop now at just ₹433. Don't miss this deal!",
       "unit": "1 Piece",
       "inStock": true,
       "category": "store"
