@@ -1,5 +1,5 @@
 {
-  "deliveryFee": 40,
+  "deliveryFee": 35,
   "freeDeliveryThreshold": 99,
   "isGroceryOpen": true,
   "isStoreOpen": true,
