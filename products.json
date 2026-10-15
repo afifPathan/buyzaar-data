@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-15T05:56:07.892",
+  "lastUpdated": "2026-10-15T05:58:05.023",
   "products": [
     {
       "id": "prod001",
@@ -10,7 +10,7 @@
       "imageUrl": "https://i.postimg.cc/d0xBLXvH/jeerasal-rice.png",
       "description": "Experience the rich aroma and fine texture of Jeerasal Rice, perfect for everyday meals.",
       "unit": "1 Kg",
-      "inStock": true,
+      "inStock": false,
       "category": "grocery"
     },
     {
