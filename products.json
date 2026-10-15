@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-15T05:55:03.662",
+  "lastUpdated": "2026-10-15T05:55:09.189",
   "products": [
     {
       "id": "prod001",
@@ -471,17 +471,6 @@
       "mrp": 785,
       "imageUrl": "https://iili.io/Cp7CsSe.jpg",
       "description": "🌟 Premium quality Jack Jones Mens Jeans. 💸 Get 13% OFF! 🛒 Shop now at just ₹683. Grab yours today!",
-      "unit": "1 Piece",
-      "inStock": true,
-      "category": "store"
-    },
-    {
-      "id": "prod1788044783081",
-      "name": "Womens Round Neck T-shirt",
-      "price": 308,
-      "mrp": 328,
-      "imageUrl": "https://api.telegram.org/file/bot8484339544:AAGsqDGu1RYFC6T6DBdbSkF5KUg6r9x-Ya0/photos/file_16.jpg",
-      "description": "🌟 Premium quality Womens Round Neck T-shirt. 💸 Get 6% OFF! 🛒 Shop now at just ₹308. Hurry, while stocks last!",
       "unit": "1 Piece",
       "inStock": true,
       "category": "store"
