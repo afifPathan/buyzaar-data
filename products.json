@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-19T02:14:52.846Z",
+  "lastUpdated": "2026-10-19T03:55:37.710Z",
   "products": [
     {
       "id": "prod001",
@@ -471,6 +471,17 @@
       "mrp": 324,
       "imageUrl": "https://iili.io/nwTaRpa.jpg",
       "description": "🌟 Premium quality Diy Mirror Mosaic Craft. 💸 Get 6% OFF! 🛒 Shop now at just ₹304. Don't miss this deal!",
+      "unit": "1 Piece",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1792382137332",
+      "name": "Jbl Live Advanced Noise",
+      "price": 12,
+      "mrp": 22,
+      "imageUrl": "https://iili.io/nw54gDP.jpg",
+      "description": "🌟 Premium quality Jbl Live Advanced Noise. 💸 Get 45% OFF! 🛒 Shop now at just ₹12. Hurry, while stocks last!",
       "unit": "1 Piece",
       "inStock": true,
       "category": "store"
