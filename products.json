@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-19T03:55:37.710Z",
+  "lastUpdated": "2026-11-20T14:06:07.430Z",
   "products": [
     {
       "id": "prod001",
@@ -482,6 +482,17 @@
       "mrp": 22,
       "imageUrl": "https://iili.io/nw54gDP.jpg",
       "description": "🌟 Premium quality Jbl Live Advanced Noise. 💸 Get 45% OFF! 🛒 Shop now at just ₹12. Hurry, while stocks last!",
+      "unit": "1 Piece",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1795183566433",
+      "name": "Jakmister 16000 Rpm Air",
+      "price": 805,
+      "mrp": 926,
+      "imageUrl": "https://api.telegram.org/file/bot8922081084:AAFb19teHuUWVzKOy9Zyx1ZfZ4TQKnDTq40/photos/file_7.jpg",
+      "description": "🌟 Premium quality Jakmister 16000 Rpm Air. 💸 Get 13% OFF! 🛒 Shop now at just ₹805. Don't miss this deal!",
       "unit": "1 Piece",
       "inStock": true,
       "category": "store"
