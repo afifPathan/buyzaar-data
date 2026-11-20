@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-20T14:06:07.430Z",
+  "lastUpdated": "2026-11-20T14:08:37.259Z",
   "products": [
     {
       "id": "prod001",
@@ -493,6 +493,17 @@
       "mrp": 926,
       "imageUrl": "https://api.telegram.org/file/bot8922081084:AAFb19teHuUWVzKOy9Zyx1ZfZ4TQKnDTq40/photos/file_7.jpg",
       "description": "🌟 Premium quality Jakmister 16000 Rpm Air. 💸 Get 13% OFF! 🛒 Shop now at just ₹805. Don't miss this deal!",
+      "unit": "1 Piece",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1795183716936",
+      "name": "Knya Scrub Suit For",
+      "price": 1,
+      "mrp": 11,
+      "imageUrl": "https://iili.io/oFk5sob.jpg",
+      "description": "🌟 Premium quality Knya Scrub Suit For. 💸 Get 91% OFF! 🛒 Shop now at just ₹1. Hurry, while stocks last!",
       "unit": "1 Piece",
       "inStock": true,
       "category": "store"
