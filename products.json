@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-11-20T14:10:07.121Z",
+  "lastUpdated": "2026-11-20T14:10:45.773Z",
   "products": [
     {
       "id": "prod001",
@@ -515,6 +515,17 @@
       "mrp": 245,
       "imageUrl": "https://iili.io/oFk78Xa.jpg",
       "description": "🌟 Premium quality Immersion Heater Rod. 💸 Get 8% OFF! 🛒 Shop now at just ₹225. Grab yours today!",
+      "unit": "1 Piece",
+      "inStock": true,
+      "category": "store"
+    },
+    {
+      "id": "prod1795183845446",
+      "name": "Octopus Clothes Drying Stand",
+      "price": 0,
+      "mrp": 0,
+      "imageUrl": "",
+      "description": "🌟 Premium quality Octopus Clothes Drying Stand. 🛒 Shop now at just ₹0. Don't miss this deal!",
       "unit": "1 Piece",
       "inStock": true,
       "category": "store"
